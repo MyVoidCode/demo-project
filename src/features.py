@@ -13,7 +13,8 @@ while temp > 0:
     sum += digit**3
     temp //= 10
 
-# display the result
+print("The sum of the cubes of the digits is:", sum)
+
 if num == sum:
     print(num, "is an Armstrong number")
 else:
