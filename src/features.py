@@ -14,8 +14,9 @@ while temp > 0:
     temp //= 10
 
 print("The sum of the cubes of the digits is:", sum)
+print("The original number is:", num)
 
 if num == sum:
-    print(num, "is an Armstrong number")
+    print("So the given number", num, "is an Armstrong number")
 else:
-    print(num, "is not an Armstrong number")
+    print("So the given number", num, "is not an Armstrong number")
