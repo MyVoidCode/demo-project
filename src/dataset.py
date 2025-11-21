@@ -3,7 +3,7 @@
 # change the values of num1, num2 and num3
 # for a different result
 num1 = 10
-num2 = 11
+num2 = 31
 num3 = 12
 
 # uncomment following lines to take three numbers from user
